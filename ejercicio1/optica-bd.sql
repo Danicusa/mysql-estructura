@@ -1,3 +1,6 @@
+CREATE DATABASE optica_cul_dampolla;
+USE optica_cul_dampolla;
+
 CREATE TABLE `proveedor` (
   `nif_proveedor` varchar(255) PRIMARY KEY,
   `nombre` varchar(255),
